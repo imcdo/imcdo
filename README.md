@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Imcdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcdo&hide=stars&count_private=true&show_icons=true&theme=dracula)
 
-![Imcdo's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imcdo&count_private=true&include_all_commits&layout=compact&theme=dracula)
+![Imcdo's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imcdo&count_private=true&include_all_commits&count_private=true&layout=compact&theme=dracula)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imcdo&theme=dark)
 
