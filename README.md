@@ -1,4 +1,5 @@
 ### Hi there 👋
+Devprod engineer and Game developer 
 
 <!--
 **imcdo/imcdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Imcdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcdo&hide=stars&count_private=true&show_icons=true&theme=dracula)
+
+![Imcdo's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imcdo&count_private=true&include_all_commits&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=imcdo)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=imcdo)
