@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Imcdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcdo&hide=stars&include_all_commits&count_private=true&show_icons=true&theme=dracula)
 
 ![Imcdo's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imcdo&count_private=true&include_all_commits&count_private=true&layout=compact&theme=dracula)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imcdo&theme=dark)
-
+-->
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=imcdo&theme=dracula)
