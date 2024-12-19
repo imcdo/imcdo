@@ -1,6 +1,7 @@
 ### Hi there 👋
 Devprod engineer and Game developer 
 
+checkout some of my projects on [itch](https://imcdo.itch.io/)
 <!--
 **imcdo/imcdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
